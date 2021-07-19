@@ -1,4 +1,5 @@
-![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/73507926/126140064-0accca54-60f8-48f1-b2c3-7a0f47e4443c.gif)
+![Screen Shot 2021-07-19 at 5 42 32 AM](https://user-images.githubusercontent.com/73507926/126140401-880a265c-7069-47e1-b46a-83ad9e19c6a3.png)
+
 
 
 # UNC-Portfolio-3
